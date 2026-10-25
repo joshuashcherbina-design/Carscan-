@@ -1,0 +1,9 @@
+{
+  "name": "carscan-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Upload car photos, identify them with AI, and build a personal collection.",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "openai": "^4.77.0" }
+}
